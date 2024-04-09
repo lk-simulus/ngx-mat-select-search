@@ -1,5 +1,8 @@
 # Changelog
 
+## 6.0.1
+* Update compatibility to `@angular/material@16`
+
 ## 6.0.0
 * Add Angular Material 15 as a peer dependency \
   [#408](https://github.com/bithost-gmbh/ngx-mat-select-search/issues/408)
